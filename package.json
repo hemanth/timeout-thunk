@@ -1,0 +1,29 @@
+{
+  "name": "timeout-thunk",
+  "version": "0.0.0",
+  "description": "setTimeout thunk.",
+  "license": "MIT",
+  "repository": "hemanth/timeout-thunk",
+  "author": {
+    "name": "hemanth",
+    "email": "hemanth.hm@gmail.com",
+    "url": "h3manth.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "thunk",
+    "setTimeout"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
